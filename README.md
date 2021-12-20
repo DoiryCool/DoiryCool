@@ -4,4 +4,4 @@
 
   
 # Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryGu-gjw&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryGu-gjw&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
