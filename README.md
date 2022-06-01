@@ -4,7 +4,7 @@
 
   
 ### 🌱 Most Used Languages 🌱
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryGu-gjw&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryGu-gjw&&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 Visitor Count 🌱
 <img src="https://profile-counter.glitch.me/JerryGu-gjw/count.svg" />
